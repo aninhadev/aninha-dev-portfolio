@@ -1,0 +1,18 @@
+.home-page{
+
+  padding-top: 80px;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+span{
+  color: blueviolet;
+}
+
+img{
+  width: 200px;
+  height: 200px;
+  border-radius: 10px;
+}

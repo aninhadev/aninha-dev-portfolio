@@ -1,14 +1,11 @@
 
 import './App.css';
-import imagemplace from '../src/images/imagemplace.jpg';
+import Home from './Pages/Home/home';
 
 function App() {
   return (
     <div className="App">
-      <h1>Aninha <span>dev</span></h1>
-      <div className='aboutMe'>
-        <img src={imagemplace}/>
-      </div>
+   <Home />
     </div>
   );
 }
