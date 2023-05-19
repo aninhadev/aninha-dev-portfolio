@@ -7,7 +7,7 @@ function Projects() {
       <Nav />
       <h1>Aninha <span>dev</span></h1>
       <div className='aboutMe'>
-        <img src={imagemplace}/>
+
         <div>
          <h2>Olá meu nome é <span>Ana Maria</span></h2>
         </div>

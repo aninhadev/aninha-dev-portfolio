@@ -1,5 +1,4 @@
-.home-page{
-
+.home-page {
   padding-top: 80px;
   color: white;
   display: flex;
@@ -7,12 +6,31 @@
   align-items: center;
 }
 
-span{
-  color: blueviolet;
+span {
+  color: rgb(210, 170, 247);
+  font-weight: 700;
 }
 
-img{
+img {
   width: 200px;
   height: 200px;
   border-radius: 10px;
+}
+
+.card-about {
+  box-shadow: rgba(27, 25, 25, 0.486) 10px 10px;
+  padding: 10px;
+  width: 40%;
+  text-align: left;
+  border: 1px rgb(72, 5, 134) solid;
+  border-radius: 5px;
+  background-color: rgb(37, 2, 70);
+}
+
+.skills {
+  display: flex;
+  flex-direction: row;
+  gap: 80px;
+  justify-content: center;
+  align-items: center;
 }

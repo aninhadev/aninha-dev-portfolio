@@ -1,51 +1,26 @@
 .card {
   position: fixed;
   width: 100%;
-  color: rgb(192, 192, 192);
+  color: rgb(253, 249, 249);
   text-align: center;
- 
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 span {
-  color: blueviolet;
-}
-
-.navbar {
-  margin: 0px 15px 0px 15px;
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-items: center;
-  justify-items: center;
-  text-align: center;
-  justify-content: space-between;
-}
-
-.navbar-list {
-  border-radius: 5px;
-  box-shadow: rgba(27, 25, 25, 0.486) 10px 10px;
-  align-items: center;
-  background-color: rgb(37, 2, 70);
-  width: 60%;
-  font-weight: 600;
-  display: flex;
-  justify-content:center;
-  text-align: center;
-  list-style: none;
-  font-size: 20px;
-  height: 42px;
-  gap: 30px;
+  color: rgb(150, 48, 245);
 }
 
 .logo {
- 
   box-shadow: rgba(27, 25, 25, 0.486) 10px 10px;
   border-radius: 5px;
   background-color: rgb(37, 2, 70);
-  width: 30%; 
+  width: 30%;
   height: 42px;
   display: flex;
-text-align: center;
-align-items: center;
-justify-content:center;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
 }

@@ -7,7 +7,7 @@ function About() {
       
       <h1>Aninha <span>dev</span></h1>
       <div className='aboutMe'>
-        <img src={imagemplace} />
+       
         <div>
           <h2> <span>Sobre</span></h2>
           <p>
